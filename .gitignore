@@ -1,0 +1,6 @@
+*.plain.html
+index.html
+!docs/index.html
+vendor/
+sc-vendor/
+.env
